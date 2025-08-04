@@ -2,10 +2,9 @@
 <h3 align="center">Front-End Developer | React Lover | Back-End Explorer</h3>
 
 <p align="center">
-  <a href="https://instagram.com/yourusername"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/samamanavi"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:samamanavi1881@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/></a>
+  <a href="https://github.com/SamaManavi"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
 </p>
 
 ---
@@ -40,6 +39,11 @@
 ### 💬 Let's Connect
 
 <p align="center">
-  <a href="mailto:samamanavi1881@gmail.com">📧</a>
-  <a href="https://linkedin.com/in/samamanavi">🔗</a>
+  <a href="mailto:samamanavi1881@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" title="Send me an Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/samamanavi" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="Connect on LinkedIn"/>
+  </a>
 </p>
