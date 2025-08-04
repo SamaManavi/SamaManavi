@@ -13,9 +13,9 @@
 ### 👩‍💻 About Me
 
 - 💻 I love building clean and responsive UIs  
-- 🌱 Currently sharpening my skills in **React**, **REST APIs**, and **MongoDB**  
+- 🌱 Currently sharpening my skills in **React**, **REST APIs** 
 - 🎯 Passionate about learning and building real-world projects  
-- ⚙️ Also exploring the back-end world with **PHP** & **MySQL**
+- ⚙️ Also exploring the back-end world with **PHP** & **MySQL** and **MongoDB** 
 
 ---
 
@@ -28,6 +28,7 @@
   <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/office/48/react.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/npm.png" alt="NPM"/>
   <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB"/>
@@ -36,19 +37,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 💬 Let's Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com">📧 your.email@example.com</a> |
-  <a href="https://instagram.com/yourusername">📷 Instagram</a> |
-  <a href="https://linkedin.com/in/yourusername">🔗 LinkedIn</a>
+  <a href="mailto:samamanavi1881@gmail.com">📧</a>
+  <a href="https://linkedin.com/in/samamanavi">🔗</a>
 </p>
