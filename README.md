@@ -1,33 +1,54 @@
 <h1 align="center">Hi there, I'm Sama 👋</h1>
+<h3 align="center">Front-End Developer | React Lover | Back-End Explorer</h3>
 
 <p align="center">
-  Front-End Developer | React Enthusiast | Learning Back-End<br>
-  HTML • CSS • JavaScript • React • Tailwind • Bootstrap • PHP • MySQL • MongoDB
+  <a href="https://instagram.com/yourusername"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 👩‍💻 About Me
 
-- 🎓 I’m currently learning **React**, **REST APIs**, and back-end basics  
-- 🛠 I enjoy building responsive and user-friendly web apps  
-- 🌱 Always curious and exploring new tools and technologies  
-
----
-
-### 🔧 Tech Stack
-
-- **Front-End:** HTML, CSS, JavaScript, Bootstrap, Tailwind, React  
-- **Back-End (Learning):** PHP, MySQL, MongoDB, REST API  
-- **Tools:** Postman, Git, GitHub
+- 💻 I love building clean and responsive UIs  
+- 🌱 Currently sharpening my skills in **React**, **REST APIs**, and **MongoDB**  
+- 🎯 Passionate about learning and building real-world projects  
+- ⚙️ Also exploring the back-end world with **PHP** & **MySQL**
 
 ---
 
-### 📫 Contact Me
+### 🛠 Tech Stack
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23C13584.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sama_manavi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samamanavi)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.samamanavi1881@gmail.com)
-
+<p align="center">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/office/48/react.png" alt="React"/>
+  <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman"/>
+</p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 💬 Let's Connect
+
+<p align="center">
+  <a href="mailto:your.email@example.com">📧 your.email@example.com</a> |
+  <a href="https://instagram.com/yourusername">📷 Instagram</a> |
+  <a href="https://linkedin.com/in/yourusername">🔗 LinkedIn</a>
+</p>
