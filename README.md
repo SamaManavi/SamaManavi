@@ -23,15 +23,11 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contact Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23C13584.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sama_manavi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samamanavi)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.samamanavi1881@gmail.com)
+
 
 ---
-
-### 📈 GitHub Stats
-
-![Sama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sama&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sama&layout=compact&theme=radical)
