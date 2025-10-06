@@ -11,9 +11,8 @@
 
 ### 👩‍💻 About Me
 
-- 💻 I love building clean and responsive UIs  
-- 🌱 Currently sharpening my skills in **React**, **REST APIs** 
-- 🎯 Passionate about learning and building real-world projects  
+- 💻 I love building clean and responsive UIs that seamlessly integrate with RESTful APIs to deliver dynamic, real-time experiences.  
+- 🌱 Currently sharpening my skills in **React** 
 - ⚙️ Also exploring the back-end world with **PHP** & **MySQL** and **MongoDB** 
 
 ---
