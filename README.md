@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sama 👋</h1>
-<h3 align="center">Front-End Developer | React Lover | Back-End Explorer</h3>
+<h3 align="center">Front-End Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/samamanavi"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
